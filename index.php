@@ -47,7 +47,7 @@ $valid = empty($nameErr) && empty($emailErr) && empty($websiteErr) && empty($gen
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Colorful Form</title>
+    <title>Form</title>
     <link rel="stylesheet" href="style.css">
     <script src="script.js" defer></script>
 </head>
